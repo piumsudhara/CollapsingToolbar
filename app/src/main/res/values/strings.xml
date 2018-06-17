@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CollapsingToolbar</string>
+    <string name="Heading">Android-The world’s most popular mobile OS</string>
+    <string name="Details">Android is a mobile operating system developed by Google, based on a modified version of the Linux kernel and other open source software and
+                           designed primarily for touchscreen mobile devices such as smartphones and tablets.In addition,
+                           Google has further developed Android TV for televisions, Android Auto for cars, and Wear OS for wrist watches,each with a
+                           specialized user interface. Variants of Android are also used on game consoles, digital cameras, PCs and other electronics.</string>
+    <string name="Date">16/06/2018 06:15:15</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
